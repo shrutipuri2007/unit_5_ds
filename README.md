@@ -3,9 +3,11 @@ represent electrical substations and possible transmission lines with constructi
 Electrical Substation Network Using Kruskal's Algorithm
 
  Project Overview
+
 This project represents electrical substations and possible transmission lines as a weighted graph. Each transmission line has a construction cost. Kruskal's Algorithm is used to determine the Minimum Spanning Tree (MST), which connects all substations with the minimum total construction cost without forming cycles.
 
  Aim
+
 To implement Kruskal's Algorithm in C++ to find the minimum-cost transmission network connecting electrical substations.
 
  Objectives
